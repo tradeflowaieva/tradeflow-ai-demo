@@ -3,7 +3,7 @@ import pandas as pd
 from pypdf import PdfReader
 
 st.set_page_config(page_title="TradeFlow AI", page_icon="📦", layout="wide")
-st.title("📦 Dustin TradeFlow AI")
+st.title("📦 TradeFlow AI")
 st.caption("Proof of Concept — Invoice & Customs Checker")
 st.info("Demo only. Customs classifications must be verified by a qualified person.")
 
